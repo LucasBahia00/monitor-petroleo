@@ -1,0 +1,13 @@
+Asset,Type,Capacity
+Abadan,Refinery,500000 bpd
+Isfahan,Refinery,375000 bpd
+Bandar Abbas,Refinery,320000 bpd
+Tehran,Refinery,235000 bpd
+Ahvaz,Oil field,945000 bpd
+Gachsaran,Oil field,560000 bpd
+Marun,Oil field,520000 bpd
+Aghajari,Oil field,200000 bpd
+Kranj,Oil field,200000 bpd
+Kharg Island,Terminal,32mn barrels
+Qeshm,Terminal,6.5mn barrels
+Goreh-Jask,Pipeline,300000 bpd
